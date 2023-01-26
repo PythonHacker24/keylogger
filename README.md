@@ -7,9 +7,9 @@ The e-mail will be sent in particular intervals of time as provided in the scrip
 
 Modify:
 
-<time_interval> : Time interval in which log files are going to be sent.
-<email> : e-mail address on which the logs have to be reported.
-<password> : password of the provided e-mail address.
+time_interval : Time interval in which log files are going to be sent.
+email : e-mail address on which the logs have to be reported.
+password : password of the provided e-mail address.
 
 //// Don't interfere with the keylogger.py file. It is just a dependency file of zlogger.py ////
 
