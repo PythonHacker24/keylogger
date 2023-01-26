@@ -1,4 +1,4 @@
-# keylogger
+# Keylogger
 
 This is a keylogger that when executed on target system, records the keystrokes and sends the log repost via e-mail that has been provided.
 The e-mail will be sent in particular intervals of time as provided in the script (zlogger.py)
